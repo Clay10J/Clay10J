@@ -39,6 +39,8 @@ A bit about me...
 
 ![Clay's GitHub stats](https://github-readme-stats.vercel.app/api?username=clay10j&show_icons=true&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=clay10j&color=blueviolet)
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Clay10J&theme=tokyonight&border_radius=4.5)
 
 **Clay10J/Clay10J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
