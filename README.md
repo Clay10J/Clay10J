@@ -6,7 +6,11 @@ Hey, thanks for checking out my GitHub!
 
 A bit about me...
 
-I'm a former SDE II at AWS and former engineer at Cerner. I love tech; anything from home networking, homelab, IoT, hardware (like soldering, arduino, rpi, etc.), and much more. I really enjoy automation and backend work, but I also have interest in infra/site-reliability and AI/ML. I'm currently learning Golang and vim/neovim.
+- I have a [patent](https://patents.justia.com/patent/11509678) on a piece of software 
+- I'm a former SDE II at AWS and former engineer at Cerner
+- I love tech; anything from home networking, homelab, IoT, hardware (like soldering, arduino, rpi, etc.), and much more
+- I really enjoy automation and backend work, but I also have interest in infra/site-reliability.
+- I'm currently learning Golang
 
 ## 🧰 Languages and Tools
 
